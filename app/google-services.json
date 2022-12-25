@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "512007866332",
+    "project_id": "kakaosearchapi",
+    "storage_bucket": "kakaosearchapi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512007866332:android:74d07b8552f2fe5618b119",
+        "android_client_info": {
+          "package_name": "com.example.tp01kakaosearchapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512007866332-55n1eqp0c6fjuj6q3rqmqvm2letidp1i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tp01kakaosearchapi",
+            "certificate_hash": "04eed22f8965c1bd41e57ab36c03297ce4ef407b"
+          }
+        },
+        {
+          "client_id": "512007866332-ti9kq5b10mge30mkd4rrr9ssff0b9pm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQAfJzmcwZXEnocookZ2uuEMBncFTTn1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512007866332-ti9kq5b10mge30mkd4rrr9ssff0b9pm7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
